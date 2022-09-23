@@ -3,6 +3,7 @@
 This repository contains the Project 2 (Grocery App) which was assigned as an final internship project by SmartInternz, all the module projects and the project report
 
 
+NAME --> SUDHANSHU PUROHIT
 
 GOOGLE DEVELOPER PROFILE URL --> https://g.dev/sudhanshu_purohit
 
