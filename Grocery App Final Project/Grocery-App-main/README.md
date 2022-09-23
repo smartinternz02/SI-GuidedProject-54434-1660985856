@@ -1,8 +1,9 @@
 # Virtual Internship - Android Application Development Using Kotlin 
 
-This repository contains the Project 2 (Grocery App) which was assigned as an internship project by SmartInternz Android Application Development Using Kotlin Internship
+This repository contains the Project 2 (Grocery App) which was assigned as an internship project by SmartInternz 
 
 
+NAME --> SUDHANSHU PUROHIT
 
 GOOGLE DEVELOPER PROFILE URL --> https://g.dev/sudhanshu_purohit
 
